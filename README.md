@@ -12,3 +12,5 @@ https://bfranks3.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Brandon Franks
+
+### ©️2019 Run Buddy, Inc 
